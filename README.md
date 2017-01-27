@@ -6,7 +6,7 @@ If you just want to see it running you will need to run the following Django com
 - pip install django==1.10.5 djangorestframework==3.5.3 djangorestframework-jsonp==1.0.2 pillow==4.0.0
 - ./manage.py makemigrations
 - ./manage.py migrate
-- ./manage.py createsupersuser
+- ./manage.py createsuperuser
 - ./manage.py runserver
 
 Then for the React part run 'npm install' then 'npm start' in the react_front_end directory.
