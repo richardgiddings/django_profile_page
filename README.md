@@ -1,6 +1,6 @@
 # README
 
-Based on a tutorial I have written at http://richardgiddings.co.uk/howto/drf-react-redux/howto.html on how to write a basic profile page using Django, Django Rest Framework and React-Redux. Any comments welcome on how it can be improved.
+Based on a tutorial I have written at https://blog.richardgiddings.co.uk/building-profile-page/ on how to write a basic profile page using Django, Django Rest Framework and React-Redux. Any comments welcome on how it can be improved.
 
 If you just want to see it running you will need to run the following Django commands:
 - pip install django==1.10.5 djangorestframework==3.5.3 djangorestframework-jsonp==1.0.2 pillow==4.0.0
